@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @neazki, my name is Ibrahim
-- 👀 I’m interested in php/laravel
-- 🌱 I’m currently learning php/laravel
+- 👀 I’m interested in php/laravel, flutter snd c#/windows apps
+- 🌱 I have been coding since 2019
