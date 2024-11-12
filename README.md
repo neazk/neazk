@@ -1,4 +1,4 @@
 
 - php/laravel, flutter and c#/windows apps
-- I have been coding since 2019
+- coding since 2020
 - Ibrahimadelft@outlook.com
